@@ -96,6 +96,7 @@
   <script type="text/javascript" src="/resources/iam/apps/dashboard-app/services/clients.service.js"></script>
   <script type="text/javascript" src="/resources/iam/apps/dashboard-app/services/clipboard.service.js"></script>
   <script type="text/javascript" src="/resources/iam/apps/dashboard-app/services/aup.service.js"></script>
+  <script type="text/javascript" src="/resources/iam/apps/dashboard-app/services/scopes.service.js"></script>
   <script type="text/javascript" src="/resources/iam/apps/dashboard-app/services/account-group-manager.service.js"></script>
   <script type="text/javascript" src="/resources/iam/apps/dashboard-app/services/users.service.js"></script>
   <script type="text/javascript" src="/resources/iam/apps/dashboard-app/services/groups.service.js"></script>
@@ -158,5 +159,9 @@
   <script type="text/javascript" src="/resources/iam/apps/dashboard-app/components/group/members/group.members.component.js"></script>
   <script type="text/javascript" src="/resources/iam/apps/dashboard-app/components/group/managers/group.managers.component.js"></script>
   <script type="text/javascript" src="/resources/iam/apps/dashboard-app/components/group/labels/group.labels.component.js"></script>
+
+  <script type="text/javascript" src="/resources/iam/apps/dashboard-app/components/scopes/scopes.component.js"></script>
+  <script type="text/javascript" src="/resources/iam/apps/dashboard-app/components/scopes/scopeslist/scopes.scopeslist.component.js"></script>
+
 
 </body>
